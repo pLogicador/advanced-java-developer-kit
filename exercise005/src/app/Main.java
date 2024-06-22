@@ -29,6 +29,7 @@ public class Main {
         } else {
             min = y;
             max = x;
+
         }
 
         int soma = 0;
