@@ -62,3 +62,6 @@ build/
 *.snap
 *.resources
 *.json
+*.resources
+*.snap
+*.json
