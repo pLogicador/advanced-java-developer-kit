@@ -51,3 +51,8 @@ build/
 # Ignore VS Code settings
 .vscode/
 *.properties
+*.resources
+*.json
+*.resources
+*.snap
+*.json
